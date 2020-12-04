@@ -1,0 +1,17 @@
+{
+  "name": "devianart",
+  "version": "0.1.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron-packager": "^15.1.0"
+  },
+  "devDependencies": {
+    "electron": "^11.0.3"
+  },
+  "author": "Draco",
+  "license": "MIT",
+  "description": ""
+}
