@@ -2,7 +2,8 @@
 
 
 ## Intalling
-Downloads are disabled until 12/05/2020 (UTC -5)
+> 🛈 Probably downloads for this repository will be disabled.
+
 |Install|
 |--------|
 |**Install [`Windows x64`]()**|
