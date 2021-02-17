@@ -21,5 +21,5 @@ Or Compile it from source: `electron-packager .`, Click [here](https://github.co
   - Compiled whit electron-packager.
 - [04/12/2020]
   - Created version `0.1.2`
-  
- 
+- [17/02/2021]
+  - `Readme.md`: Line 14 (in Plain Text). Description: none
