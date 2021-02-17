@@ -11,6 +11,8 @@
 |**Install [`MacOs`]()**|
 |**Install [`Linux`]()**|
 
+Do `npm i` to install dependencies
+
 Dont Find your Os? Click [here!]()
 Or Compile it from source: `electron-packager .`, Click [here](https://github.com/electron/electron-packager/blob/master/README.md#installation) to download [electron-packager](https://github.com/electron/electron-packager) module.
 
